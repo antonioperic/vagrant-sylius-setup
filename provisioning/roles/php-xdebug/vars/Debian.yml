@@ -1,0 +1,6 @@
+---
+php_fmp_conf_d_path: /etc/php/5.6/fpm/conf.d/
+
+php_cli_conf_d_path: /etc/php/5.6/cli/conf.d/
+
+php_mods_available: /etc/php/5.6/mods-available/
