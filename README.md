@@ -17,7 +17,7 @@ Behat & Selenium
 
 First thing you need to do is to install the test db and data 
 (if you do not have your setup).
-You can do that by going into `/var/www/sylius` and executing `app/console sylius:install --env=test`.
+You can do that by going into `/var/www/sylius` and executing `bin/console sylius:install --env=test`.
 
 To use behat test suite, first you need to setup the Selenium and chromedriver.
 The easiest way to do it, is to go into `/var/www/selenium` and execute `install.sh`.
